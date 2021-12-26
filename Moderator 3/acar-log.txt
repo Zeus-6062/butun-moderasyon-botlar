@@ -1,0 +1,37 @@
+[~ ACAR~ ] (acarCezaCheck.js) isimli etkinlik yüklendi.
+[~ ACAR~ ] (acarKalkmazBan.js) isimli etkinlik yüklendi.
+[~ ACAR~ ] (acarMemberJoinServer.js) isimli etkinlik yüklendi.
+[~ ACAR~ ] (acarMemberLeave.js) isimli etkinlik yüklendi.
+[~ ACAR~ ] (acarMessage.js) isimli etkinlik yüklendi.
+[~ ACAR~ ] (acarReady.js) isimli etkinlik yüklendi.
+[~ ACAR~ ] (acarSesMute.js) isimli etkinlik yüklendi.
+[~ ACAR~ ] (acarTagTarama.js) isimli etkinlik yüklendi.
+[~ ACAR~ ] (acarUserUpdate.js) isimli etkinlik yüklendi.
+[~ ACAR~ ] (acarYasakliTag.js) isimli etkinlik yüklendi.
+[~ ACAR ~] (Cezali/Jail.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Cezali/PermJail.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Cezali/UnJail.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Cezali/Uyari.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Diger/Booster.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Diger/KalkmazBan.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Diger/SelfKontrol.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Diger/Snipe.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Diger/Temizle.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Diger/Yardım.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Sistem/Ayarlar.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Kayit/Isim.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Kayit/Isimsorgu.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Kayit/Kayit.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Kayit/Kayitsiz.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Susturma/Mute.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Susturma/PermMute.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Susturma/SesMute.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Susturma/Unmute.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Yasaklama/Ban.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Yasaklama/Kick.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Yasaklama/Unban.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Yonetici/CezaYonetimi.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Yonetici/Isimtemizle.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Yonetici/SicilYonetimi.js) adlı komut çalışır hale getirildi.
+[~ ACAR ~] (Yonetici/TeyitYonetimi.js) adlı komut çalışır hale getirildi.
+[2021-01-06 03:44:16] Komut dosyaları başarıyla tamamlandı bot aktif edildi.

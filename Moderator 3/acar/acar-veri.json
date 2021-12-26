@@ -1,0 +1,84 @@
+{
+"sunucuIsmi" : "Câss (0019)",
+"sunucuUfakIsim": "Câss",
+"Tag": "Câss",
+"Tag2": "0019",
+"IkinciTag": "▪",
+"yasakTaglar": [],
+"sunucuDavetLinki": "discord.gg/cass",
+"embedUfakResim": "",
+"Kanallar": {
+    "kayitSonrasi": "852416621901119508",
+    "banLogKanali": "855122623959531541",
+    "kickLogKanali": "855122652880437309",
+    "jailLogKanali": "855122666398941244",
+    "supheliLogKanali": "855122574433452083",
+    "yasakliTagLogKanali": "855122526983159808",
+    "muteLogKanali": "855122684329328690",
+    "sesmuteLogKanali": "855122717496836126",
+    "uyarıLogKanali": "855122739038781440",
+    "tagLogKanali": "855122392576819240",
+    "chatKanali": "852416621901119508",
+    "kurallarKanal": "852416587725537301",
+    "mesajLogKanali": "855122469437177866",
+    "sesLogKanali": "855122483514835004"
+},
+
+"hosgeldinSistemi": {
+    "webhookID": "855125101909508096",
+    "webhookTOKEN": "GZYUwAQQWtqQ7jMo4gMQnKpeaNNWnS_j9MOw2bEUhV25ERlZ9YTvo5stu38dgin6RgE6"
+},
+"RolLog": {
+    "webhookID":"",
+    "webhookTOKEN":""
+},
+
+"Roller": {
+    "botcuRolu": "853166192238657566",
+    "kurucuRolu": "853158712888786954",
+    "altKurucuRolu": "848617274326646824",
+    "yonetimRolu": "853158713920585748",
+    "boosterRolu": "832945432844959744",
+    "muteRolu": "853173553772232714",
+    "jailRolu": "",
+    "supheliRolu": "853174455311663134",
+    "yasakliTagRolu": "853174455311663134",
+    "istatistikciRolleri": ["853165471356813342"],
+    "botCommand": ["853165471356813342"],
+    "warnHammer": ["853165471356813342"],
+    "muteHammer": ["853161929605120000"],
+    "voiceMuteHammer": ["853161929605120000"],
+    "jailHammer": ["853161931841601566"],
+    "banHammer": ["853161928788803614"],
+    "roleManager": ["853165472055820308"],
+    "vipRolu": "853166194620891156"
+},
+"Yetenek": {
+    "vokalRolu": "",
+    "müzisyenRolu": "",
+    "telliRolu": "",
+    "yazılımcıRolu": "",
+    "tasarımcıRolu": "",
+    "ressamRolu": "",
+    "şairRolu": ""
+},
+"kayıtRolleri": {
+    "kayıtsızYapanRoller": ["853190486600712232"],
+    "kayıtYapanRoller": ["853190486600712232"],
+    "kayıtsızRolleri": ["853190894898774046","854304782523957298"],
+    "tagRolu": "853166191148924969",
+    "erkekRolleri": ["853173553569988608","854297687733436446","854297941715058719"],
+    "kadinRolleri": ["853166213857411072","854297688097947648","854297941568651305"]
+},
+
+"Emojiler": {
+    "tag": "<a:19_start:853535289607454720>",
+    "Onay": "<a:okey:853349774065139722>",
+    "Iptal": "<a:no:853349776270426122>",
+    "afkOldu": "<a:19:853550396546351144>",
+    "afkOlmadi": "<a:19:853550396546351144>",
+    "susturuldu": "<a:19:853550396546351144>",
+    "susturmakaldirildi": "<a:19:853550396546351144>",
+    "jailatildi": "<a:19:853550396546351144>"
+}
+}
