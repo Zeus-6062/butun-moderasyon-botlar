@@ -1,0 +1,45 @@
+{
+  "guildID": "",
+  "dmMessages": true,
+  "penals": {
+    "ban": {
+      "staffs": [],
+      "log": "",
+      "limit": 0
+    },
+    "jail": {
+      "staffs": [],
+      "roles": [],
+      "log": "",
+      "limit": 0
+    },
+    "chatMute": {
+      "staffs": [],
+      "roles": [],
+      "log": "",
+      "limit": 0
+    },
+    "voiceMute": {
+      "staffs": [],
+      "roles": [],
+      "log": "",
+      "limit": 0
+    },
+    "warn": {
+      "staffs": [],
+      "roles": [{ "warnCount": 1, "role": "" }],
+      "log": ""
+    }
+  },
+  "registration": {
+    "unregRoles": []
+  },
+  "emojis": {
+    "mark": "",
+    "cross": ""
+  },
+  "logs": {
+    "voiceLog": "",
+    "messageLog": ""
+  }
+}
