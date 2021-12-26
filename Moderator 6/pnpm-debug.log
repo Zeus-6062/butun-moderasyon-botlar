@@ -1,0 +1,42 @@
+---
+  0 debug pnpm:scope: 
+    selected: 1
+    workspacePrefix: null
+  1 info pnpm: 
+    message: "A store server is running. All store manipulations are delegated to it."
+    prefix: "/app"
+  2 debug pnpm:package-json: 
+    initial: 
+      main: "LONA.js"
+      scripts: 
+        start: "node LONA.js"
+      dependencies: 
+        discord.js: "^12.4.1"
+        express: "^4.17.1"
+        fs: "0.0.1-security"
+        moment: "^2.29.1"
+        moment-duration-format: "^2.3.2"
+        ms: "^2.1.2"
+        parse-ms: "^2.1.0"
+        quick.db: "^7.1.3"
+      gitHead: "017e769177244e0aaaf8cad1617e307e5eb39abd"
+      name: ""
+      version: ""
+      readme: "ERROR: No README data found!"
+      _id: "@"
+    prefix: "/app"
+  3 warn pnpm: 
+    message: "Moving discord.js that was installed by a different package manager to \"node_modules/.ignored"
+    prefix: "/app"
+  4 error pnpm: 
+    message: 
+      errno: -39
+      code: "ENOTEMPTY"
+      syscall: "rename"
+      path: "/rbd/pnpm-volume/3d7fa94f-d9ad-4b35-b772-0a4b79d9d1cd/node_modules/discord.js"
+      dest: "/rbd/pnpm-volume/3d7fa94f-d9ad-4b35-b772-0a4b79d9d1cd/node_modules/.ignored/discord.js"
+    err: 
+      name: "Error"
+      message: "ENOTEMPTY: directory not empty, rename '/rbd/pnpm-volume/3d7fa94f-d9ad-4b35-b772-0a4b79d9d1cd/node_modules/discord.js' -> '/rbd/pnpm-volume/3d7fa94f-d9ad-4b35-b772-0a4b79d9d1cd/node_modules/.ignored/discord.js'"
+      code: "ENOTEMPTY"
+      stack: "Error: ENOTEMPTY: directory not empty, rename '/rbd/pnpm-volume/3d7fa94f-d9ad-4b35-b772-0a4b79d9d1cd/node_modules/discord.js' -> '/rbd/pnpm-volume/3d7fa94f-d9ad-4b35-b772-0a4b79d9d1cd/node_modules/.ignored/discord.js'"

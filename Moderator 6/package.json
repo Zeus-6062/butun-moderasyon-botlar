@@ -1,0 +1,16 @@
+{
+  "main": "LONA.js",
+  "scripts": {
+    "start": "node LONA.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3"
+  }
+}
