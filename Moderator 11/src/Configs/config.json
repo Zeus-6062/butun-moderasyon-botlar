@@ -1,0 +1,62 @@
+{
+    "Ktag":"•",
+    "Tag":"",
+    
+    "Rules":"",
+    "BannedTag":"",
+    "BTagLogChannel":"",
+    "FakeAccRole":"",
+    "Booster":"",
+    "Staff":"",
+    "UstStaff":"",
+
+    "Log" : {
+        "TagLogChannel":""
+    },
+
+    "Toplantı": {
+        "ToplantıChannel":"",
+        "Katıldı":"",
+        "İzinli":"",
+        "Gelmedi":""
+    },
+    "Register": {
+        "BoyRoles":["","",""],
+        "GirlRoles":["","",""],
+        "RegisterHammer":"",
+        "UnregRole":"",
+        "RegisterLogChannel":"",
+        "CrewRole":"",
+        "RegisterChannel":""
+    },
+
+    "Mute": {
+        "MuteLogChannel":"",
+        "ChatMute":"",
+        "MuteHammer":""
+    },
+
+    "Vmute": {
+        "VmuteLogChannel":"",
+        "Vmute":"",
+        "VmuteHammer":""
+    },
+
+    "Jail": {
+        "JailLogChannel":"",
+        "Jail":"",
+        "JailHammer":""
+    },
+
+    "Ban": {
+        "BanLogChannel":"",
+        "BanHammer":""
+    },
+
+    "Rol": {
+        "Lgbt":"",
+        "Couple":"",
+        "Alone":""
+    }
+    
+}
